@@ -66,7 +66,7 @@ Olá! Meu nome é Aparecida Dagda e estou em transição de carreira da área de
 
 ## 📫 Como me encontrar
 
-- Email: seuemail@email.com  
+- Email: aparecidadagda@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/aparecida-santos-341088277/)  
 - GitHub: [https://github.com/Aparecidapython/Aparecida-Dagda/edit/main/README.md)
 
